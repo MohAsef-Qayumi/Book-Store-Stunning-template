@@ -28,7 +28,7 @@ A modern, responsive online book store built with React and Vite. Browse books, 
 
 1. **Clone the repository**
    ```powershell
-   git clone <your-repo-url>
+   git clone https://github.com/MohAsef-Qayumi/Book-Store-Stunning-template.git
    cd app
    ```
 2. **Install dependencies**
